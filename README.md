@@ -1,4 +1,4 @@
-# 19CS415-RSA-Algorithm
+# EX-9-RSA ENCRYPTION ALGORITHM
 ## AIM:
 To encrypt and decrypt a given message using the RSA (Rivest-Shamir-Adleman) algorithm.
 
